@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 15e3d39d01a5946499fa8b6b5dc1b00f
-timeCreated: 1462020582
-licenseType: Store
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - decalHitWall: {fileID: 179232, guid: b2ac1383a96f94a50b7ed458be173bbd, type: 3}
+  - bloodEffect: {fileID: 1013274939826982, guid: ffbf169ab9dcfdc45ae14010bc82a6b2, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

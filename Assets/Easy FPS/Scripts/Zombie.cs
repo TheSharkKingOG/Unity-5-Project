@@ -15,7 +15,7 @@ public class Zombie : MonoBehaviour
         }
     }
 
-    void Die()
+    public void Die()
     {
         Debug.Log("Zombie is dead!");
         Destroy(gameObject); // Removes the zombie from the scene
