@@ -16,12 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fef04b06e33c4dc4683e434ce927eff1
-  m_SerializeEntries:
-  - m_GUID: 48f759475e7876a4c87f39ff0243bb34
-    m_Address: Assets/download (1).jfif
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 84878abffd57dd54e831ca2c03cddef2, type: 2}
   m_SchemaSet:
