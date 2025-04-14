@@ -1,5 +1,5 @@
 # Unity 5 Project
  
-A Shooting game based in a dungeon :)
+A Nextbots sort of game :)
 
 In Very,Very,Very,Very Early alpha
