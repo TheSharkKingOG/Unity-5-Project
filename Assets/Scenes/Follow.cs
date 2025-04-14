@@ -15,6 +15,9 @@ public class Follow : MonoBehaviour
             // Calculate distance between follower and target
             float distance = Vector3.Distance(transform.position, target.position);
 
+            // Make the object face the target
+            transform.LookAt(target);
+
             // Only move if we're further than the minimum distance
             if (distance > minDistance)
             {
