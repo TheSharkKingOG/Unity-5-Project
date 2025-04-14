@@ -587,17 +587,17 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_ProvidesContacts
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1142,17 +1142,17 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_ProvidesContacts
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1718,17 +1718,17 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_ProvidesContacts
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3967,17 +3967,17 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_ProvidesContacts
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7615,17 +7615,17 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_ProvidesContacts
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7755,12 +7755,12 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
@@ -8020,12 +8020,12 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
@@ -8160,12 +8160,12 @@ PrefabInstance:
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_Convex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8656927238323103413, guid: da389f98d36554042874cf88abbff5ef,
         type: 3}
