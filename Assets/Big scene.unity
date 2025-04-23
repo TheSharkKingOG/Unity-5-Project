@@ -4078,6 +4078,7 @@ GameObject:
   - component: {fileID: 767669657}
   - component: {fileID: 767669658}
   - component: {fileID: 767669659}
+  - component: {fileID: 767669660}
   m_Layer: 0
   m_Name: B
   m_TagString: Untagged
@@ -4222,6 +4223,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &767669660
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767669653}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.2, y: 2.29, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &795340647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5704,6 +5726,7 @@ GameObject:
   - component: {fileID: 1222652040}
   - component: {fileID: 1222652039}
   - component: {fileID: 1222652043}
+  - component: {fileID: 1222652044}
   m_Layer: 0
   m_Name: IMG_0905
   m_TagString: Untagged
@@ -5836,6 +5859,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &1222652044
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1222652038}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 12.42, y: 12.16, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1224693998
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6844,6 +6888,7 @@ GameObject:
   - component: {fileID: 1421690224}
   - component: {fileID: 1421690223}
   - component: {fileID: 1421690227}
+  - component: {fileID: 1421690228}
   m_Layer: 0
   m_Name: Screenshot_20221215_154842
   m_TagString: Untagged
@@ -6976,6 +7021,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &1421690228
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421690222}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 6.9, y: 3.81, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1430050091
 PrefabInstance:
   m_ObjectHideFlags: 0
