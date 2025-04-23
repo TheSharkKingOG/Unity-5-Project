@@ -714,6 +714,7 @@ GameObject:
   - component: {fileID: 68826498}
   - component: {fileID: 68826499}
   - component: {fileID: 68826500}
+  - component: {fileID: 68826501}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -756,8 +757,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c382e378ad9e8a54da47c8370f7f6a64, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpForce: 5
+  moveSpeed: 10
+  jumpForce: 20
 --- !u!20 &68826493
 Camera:
   m_ObjectHideFlags: 0
@@ -951,6 +952,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &68826501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 68826490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09f62edd409e4b549b402febc0c172af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &90278622
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4120,6 +4133,7 @@ GameObject:
   - component: {fileID: 767669655}
   - component: {fileID: 767669654}
   - component: {fileID: 767669657}
+  - component: {fileID: 767669658}
   m_Layer: 0
   m_Name: B
   m_TagString: Untagged
@@ -4139,7 +4153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20c1327978a86cf43859ffa667022065, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  target: {fileID: 68826497}
   speed: 2
   minDistance: 1
 --- !u!212 &767669655
@@ -4221,6 +4235,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56aff5cf2f3a96d45a281138fbfd1e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &767669658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767669653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497524b46167ceb478c42af0eb488949, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 68826497}
+  lockXRotation: 1
+  lockYRotation: 0
+  lockZRotation: 1
 --- !u!1001 &795340647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5721,7 +5751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 497524b46167ceb478c42af0eb488949, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  target: {fileID: 68826497}
   lockXRotation: 1
   lockYRotation: 0
   lockZRotation: 1
@@ -5737,7 +5767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20c1327978a86cf43859ffa667022065, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  target: {fileID: 68826497}
   speed: 2
   minDistance: 1
 --- !u!212 &1222652041
